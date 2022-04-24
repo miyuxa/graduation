@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: aquamarine;
+    color: blueviolet;
+    padding: 20px;
+    text-align: center;
+}
+p{
+    color:#36D792 ;
+}
+li{
+   color: #190773;background-color:#8170D8;
+}
+h1{
+    color:#FFD600;
+    background-color:#4DDE00 ;
+    
+}
+h2{
+    color:#DC0055;background-color:#FFFD00 ;
+}
